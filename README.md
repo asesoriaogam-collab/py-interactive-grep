@@ -1,3 +1,5 @@
+🌍 *Read this in other languages: [English](README.en.md) | [Español](README.md) | [Русский](README.ru.md) | [tlhIngan](README.tlh.md)*
+
 # 🔍 Buscador Inteligente de Archivos (Smart File Search)
 
 Un script de Python ligero, rápido y sin dependencias diseñado para buscar palabras o frases exactas **dentro** del contenido de múltiples archivos de texto de forma simultánea. Ideal para desarrolladores, auditores o cualquier usuario que necesite escanear grandes volúmenes de texto.
